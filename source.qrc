@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml-src/Page2.qml</file>
+        <file>qml-src/Title.qml</file>
+        <file>qml-src/Page1.qml</file>
+        <file>qml-src/Page3.qml</file>
+        <file>qml-src/MyText.qml</file>
+        <file>qml-src/MyButton.qml</file>
+        <file>qml-src/MyCheckBox.qml</file>
+        <file>qml-src/Mianban.qml</file>
+        <file>qml-src/Installor.qml</file>
+        <file>qml-src/images/background.png</file>
+        <file>qml-src/images/button.png</file>
+        <file>qml-src/images/button-hover.png</file>
+        <file>qml-src/images/button-press.png</file>
+        <file>qml-src/images/zidingyi.png</file>
+        <file>qml-src/images/zidingyi-hover.png</file>
+        <file>qml-src/images/close-btn-press.png</file>
+        <file>qml-src/images/close-btn-disable.png</file>
+        <file>qml-src/images/hidden-btn.png</file>
+        <file>qml-src/images/hidden-btn-hover.png</file>
+        <file>qml-src/images/close-btn-hover.png</file>
+        <file>qml-src/images/close-btn.png</file>
+        <file>qml-src/images/hidden-btn-press.png</file>
+        <file>qml-src/images/zidingyi-disable.png</file>
+        <file>qml-src/images/button-disable.png</file>
+    </qresource>
+</RCC>

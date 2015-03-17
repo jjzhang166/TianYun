@@ -1,0 +1,5 @@
+*.o
+moc_*
+qrc_*
+*pro.user
+TianYun

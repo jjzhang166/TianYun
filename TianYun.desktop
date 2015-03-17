@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Kylin Script Install Soft 
+Type=Application
+Exec=gksudo /home/kylin/Seafile/DataBank/SoftWare/Installor/Installor
+Icon=/home/kylin/Seafile/DataBank/SoftWare/Installor/qml-src/images/background.png
+Name[zh_CN]=启动器
+GenericName[zh_CN]=测试软件
+Comment[zh_CN]=注释测试
