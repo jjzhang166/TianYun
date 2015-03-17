@@ -10,6 +10,6 @@
 ```
 
 #例图
-![](http://git.oschina.net/qt-shared-us/TianYun/blob/master/logos/second.png)
+![](http://git.oschina.net/qt-shared-us/TianYun/raw/master/logos/second.png)
 
-![](http://git.oschina.net/qt-shared-us/TianYun/blob/master/logos/first.png)
+![](http://git.oschina.net/qt-shared-us/TianYun/raw/master/logos/first.png)
