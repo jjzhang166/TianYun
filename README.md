@@ -3,11 +3,13 @@
 1. 目标就是Linux客户端的图形安装程序
 
 #编译方法
+```shell
     $ qmake 
     $ make -j4
     $ gksu ./TianYun
+```
 
 #例图
-[logo]: logos/first.png
+![](http://git.oschina.net/qt-shared-us/TianYun/blob/master/logos/second.png)
 
-[logo]: logos/second.png
+![](http://git.oschina.net/qt-shared-us/TianYun/blob/master/logos/first.png)
